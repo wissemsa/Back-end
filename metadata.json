@@ -1,0 +1,6 @@
+{
+  "name": "NodeForge - Full-Stack Express, EJS & MongoDB Studio",
+  "description": "Interactive Full-Stack Node.js, Express, EJS & MongoDB development studio, visual query runner, session inspector, and live Blog & Todo applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
