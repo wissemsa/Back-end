@@ -88,7 +88,7 @@ The studio teaches and exports an **Express + EJS + Mongoose + express-session**
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/wissemsa/Back-end.git
 cd nodeforge
 
 # Install dependencies
